@@ -1,6 +1,8 @@
 # magic8ball
 
-A new Flutter project.
+This application helps you in decision making.
+You have a decision so you ask thr ball ..
+press on the ball and it will show an answer that might help you in your decision.
 
 ## Getting Started
 
